@@ -17,6 +17,11 @@ FORBIDDEN = (
     "C2PA-konform",
     "C2PA conformant",
     "Midjourney",
+    "certifikováno",
+    "certifikovaný",
+    "ověřeno",
+    "garance souladu",
+    "zaručujeme",
 )
 SENTENCES = (
     "Art. 50 EU AI Act gilt seit 2. August 2026.",
@@ -55,6 +60,10 @@ LOCAL = {
     "/en/index.html": ROOT / "en" / "index.html",
     "/en/legal-notice.html": ROOT / "en" / "legal-notice.html",
     "/en/privacy.html": ROOT / "en" / "privacy.html",
+    "/cs/": ROOT / "cs" / "index.html",
+    "/cs/index.html": ROOT / "cs" / "index.html",
+    "/cs/impressum.html": ROOT / "cs" / "impressum.html",
+    "/cs/datenschutz.html": ROOT / "cs" / "datenschutz.html",
     "/assets/styles.css": ROOT / "assets" / "styles.css",
 }
 
