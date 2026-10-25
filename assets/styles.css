@@ -103,6 +103,7 @@ section:last-of-type { border-bottom: 0; }
 .facts { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
 .facts li { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; }
 .facts time { font-weight: 700; }
+.facts-note { color: var(--muted); font-size: 0.92rem; margin-top: 14px; }
 
 .checks { list-style: none; padding: 0; margin: 0 0 20px; display: grid; gap: 12px; }
 .checks li { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; }

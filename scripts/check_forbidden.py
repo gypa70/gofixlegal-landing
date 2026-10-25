@@ -27,6 +27,10 @@ SENTENCES = (
     "Art. 50 EU AI Act gilt seit 2. August 2026.",
     "Ab 2. Dezember 2026 müssen auch bereits verfügbare Bildgeneratoren maschinenlesbare Herkunftsmarkierungen einbetten (Pflicht der Anbieter der Generatoren).",
     "Deepfakes müssen sichtbar gekennzeichnet werden.",
+    "Hochrisiko-Systeme: eigenständige Systeme ab 2. Dezember 2027, in Produkte eingebettete Systeme ab 2. August 2028.",
+    "Fristen gemäß Digital Omnibus; verbindlich nach Veröffentlichung im Amtsblatt der EU.",
+    "Termíny podle Digital Omnibus; závazné po publikaci v Úředním věstníku EU.",
+    "Deadlines according to the Digital Omnibus; binding once published in the Official Journal of the EU.",
 )
 IMPRESSUM_BITS = (
     "FinalEdge s.r.o.",
